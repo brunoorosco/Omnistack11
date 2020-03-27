@@ -3,9 +3,9 @@
 Semana Omnistack 11 - Rocketseat
 
 Backend 
-    . Express
-    . SQLite
-    . Knex
+    - Express
+    - SQLite
+    - Knex
 
 Frontend
-    . React    
+    - React    
