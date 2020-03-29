@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Logon from './pages/Login';
 import Register from './pages/Register';
 import Profile from './pages/Profile';
-import Incident from './pages/NewIncident';
+ import Incident from './pages/NewIncident';
 
 export default function Routes() {
     return (
